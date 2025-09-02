@@ -26,6 +26,7 @@ Built with passion by MIAN, AnimeHub is more than just a platform — it's where
             <li><a href="#" className="text-gray-300 hover:text-[#e94560]">Help Center</a></li>
             <li><a href="#" className="text-gray-300 hover:text-[#e94560]">Privacy Policy</a></li>
             <li><a href="#" className="text-gray-300 hover:text-[#e94560]">Terms of Service</a></li>
+            <li><a href="https://animehuub-stream.netlify.app/#" className="text-gray-300 hover:text-[#e94560]">AnimeHuub-Stream</a></li>
           </ul>
         </div>
       </div>
