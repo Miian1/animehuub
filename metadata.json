@@ -1,0 +1,6 @@
+{
+  "name": "AnimeHub",
+  "description": "An anime discovery platform where users can browse trending, new, and popular anime, view details, and manage their profile. Powered by the Jikan API for anime data and Supabase for user authentication.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
